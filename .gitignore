@@ -2,4 +2,4 @@
 data/
 class_material/
 slides/
-labs/lab_01/__pycache__/
+__pycache__/
