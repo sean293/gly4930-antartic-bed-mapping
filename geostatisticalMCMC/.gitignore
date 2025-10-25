@@ -1,0 +1,13 @@
+Data/
+gstatsim_custom/
+__pycache__/
+.ipynb_checkpoints/
+.spyproject
+.virtual_documents
+DenmanDataGridded.csv
+sgs_bed.txt
+gstatsMCMC/__pycache__/
+gstatsMCMC/.ipynb_checkpoints/
+*.txt
+T3_LargeScaleChain_badexample.ipynb
+*.csv
